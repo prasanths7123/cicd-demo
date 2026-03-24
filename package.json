@@ -1,0 +1,15 @@
+{
+  "name": "cicd-node-demo",
+  "version": "1.0.0",
+  "description": "CI/CD Node Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "Prasanth",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
